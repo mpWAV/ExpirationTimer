@@ -24,8 +24,6 @@ if (is_expired(20230328_issued)) {
 + 갈라진 지점 : `1b24b58`
 + 작업 브랜치 : `ko`
 + 전체 차이 보기 : `git diff 1b24b58..ko`
-+ 쓰는 쪽 : `mpWAV/2025_irlink_mpNCw` (IR_Link)
-
 upstream 과 다른 점은 `chrono/exp_chrono.cpp` 의 한 줄뿐이다 (`59ecf45`).
 
 ## `is_expired()` 의 off-by-one 수정
